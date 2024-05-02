@@ -7,7 +7,7 @@ other architectures.
 I want the work I do to say something about who I am, how I feel and how I think.
 I enjoy working with Cloud Infrastructures - private, hybrid and public cloud infrastructure.  My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![manpasu's Stats](https://github-readme-stats.vercel.app/api?manpersu=manpersu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![manpersu's Stats](https://github-readme-stats.vercel.app/api?username=manpersu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -21,7 +21,7 @@ I enjoy working with Cloud Infrastructures - private, hybrid and public cloud in
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gcp,ansible,terraform,openstack,jenkins,linux,grafana,python)]
+[!My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gcp,ansible,terraform,openstack,jenkins,linux,grafana,python)
 
 ## 🌱 Currently Exploring
 
