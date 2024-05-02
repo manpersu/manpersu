@@ -21,7 +21,7 @@ I enjoy working with Cloud Infrastructures - private, hybrid and public cloud in
 
 
 ## Tech Stack
-[!My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gcp,ansible,terraform,openstack,jenkins,linux,grafana,python)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gcp,ansible,terraform,openstack,jenkins,linux,grafana,python)]
 
 ## 🌱 Currently Exploring
 
