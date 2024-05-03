@@ -1,11 +1,6 @@
 # Hi, I'm Manpasu! 👋
 
-I am a curious cloud infrastructure engineer! My curiousity goes from system design to system reliability to system automation.
-I have been designing systems for more than 3 years. I find systems designed based on modular or microservice architecture to be intriguing. It makes it possible to easily upgrade or even replace a 
-module or a microservice witout impacting the whole system. Ensuring system reliability, robustness and resilience is much easier with this kind of architecture. 😄 You're right, it is more expensive compared to
-other architectures. 
-I want the work I do to say something about who I am, how I feel and how I think.
-I enjoy working with Cloud Infrastructures - private, hybrid and public cloud infrastructure.  My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I'm an enthusiastic cloud infrastructure engineer with over 3 years of experience designing and integrating distributed, scalable cloud systems. I leverage my expertise in modular and microservice architectures to ensure system reliability, resilience, maintainability, and ease of upgrades.  My passion lies in delving into the world of cloud computing technology, exploring innovative solutions, and sharing my knowledge through open-source contributions or blog posts on best practices.
 
 ![manpersu's Stats](https://github-readme-stats.vercel.app/api?username=manpersu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
