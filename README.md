@@ -1,6 +1,6 @@
 # Hi, I'm Manpasu! 👋
 
-I'm an enthusiastic cloud infrastructure engineer with over 3 years of experience designing and integrating distributed, scalable cloud systems. I leverage my expertise in modular and microservice architectures to ensure system reliability, resilience, maintainability, and ease of upgrades.  My passion lies in delving into the world of cloud computing technology, exploring innovative solutions, and sharing my knowledge through open-source contributions or blog posts on best practices.
+I'm an enthusiastic cloud infrastructure engineer. For more than 2 years I have been designing and integrating distributed, scalable cloud systems. I leverage my expertise in modular and microservice architectures to ensure system reliability, resilience, maintainability, and ease of upgrades.  My passion lies in delving into the world of cloud computing technology, exploring innovative solutions, and sharing my knowledge through open-source contributions or blog posts on best practices. I have worked mostly on private [on-prem] cloud infrastructure - for public cloud, I have used AWS in 3 projects, but I am more experienced with GCP.
 
 ![manpersu's Stats](https://github-readme-stats.vercel.app/api?username=manpersu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
