@@ -22,7 +22,7 @@ I'm an enthusiastic cloud infrastructure engineer. For more than 2 years I have 
 
 - 🚀 Learning Machine Learning
   - Exploring system reliability engineering
-  - Navigating through the DevOps
+  - Navigating through DevOps
   - Building mobile app dev. using Flutter.
   - Diving into PostgreSQL for efficient and scalable database management.
 
