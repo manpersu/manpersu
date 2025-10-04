@@ -21,10 +21,9 @@ I love clouds.
 ## 🌱 Currently Exploring
 
 - 🚀 Machine vision
-  - System reliability engineering
-  - Cloud Native
-  - IoT
-
+- 🚀 System reliability engineering
+- 🚀 Cloud Native
+- 🚀 IoT
 
 ## 📬 Get in Touch
 
