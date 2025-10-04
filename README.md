@@ -1,13 +1,13 @@
 # Hi, I'm Manpasu! 👋
 I love clouds. 
 
-![manpersu's Stats](https://github-readme-stats.vercel.app/api?username=manpersu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![manpersu's Stats](https://github-readme-stats.vercel.app/api?username=manpersu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)]
 
 ## 🚀 About Me
 
 - 🔭 Cloud infrastructure
 - 📝 I write when I have the the time
-- Cloud Native architecture
+- ⚡  Cloud Native architecture
 - 🌐 You can find me on Linkedin [https://www.linkedin.com/in/manpasu/]
 
 
