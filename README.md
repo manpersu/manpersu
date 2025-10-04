@@ -14,10 +14,11 @@ I love clouds.
 ## My Articles
 - [Leveraging distributed architecture to enhance system fault tolerance and minimize service disruptions](https://www.linkedin.com/pulse/leveraging-distributed-architecture-enhance-system-fault-mathias-vtyle/?trackingId=68ScGmVE4RME24z5JXXLEw%3D%3D)
 
-
+<!--
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,gcp,ansible,terraform,openstack,jenkins,linux,grafana,python,go)]
 
+-->
 ## 🌱 Currently Exploring
 
 - 🚀 Machine vision
