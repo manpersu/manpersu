@@ -6,7 +6,7 @@ I love clouds.
 ## 🚀 About Me
 
 - 🔭 Cloud infrastructure
-- 📝 I write when I have the the time
+- 📝 I write when I have the time
 - ⚡  Cloud Native architecture
 - 🌐 You can find me on Linkedin [https://www.linkedin.com/in/manpasu/]
 
